@@ -32,6 +32,14 @@ To run this skill you need to do two things. The first is to deploy the example 
 9.	In order to test it, try to say some of the Sample Utterances from the Examples section below.
 10.	Your skill is now saved and once you are finished testing you can continue to publish your skill.
 
+# DeviceJS Server
+1. Copy the server javascript file from the devicejs local server folder to your machince where devicejs is installed.
+2. Plug in the border router.
+3. Start devicejs in one terminal using "devicejs start".
+4. Run devicejs in another terminal using "sudo devicejs run ./"
+5. Once the above two have started, run the server using the code as "sudo devicejs run <file path>/wigwag_bulbs.js"
+6. The commands received from Alexa can be seen on this terminal.
+
 #Example user interactions:
 #One-shot model:
 1. User:  "Alexa, ask wig wag to turn on the lights at 11:30 AM on Friday."
