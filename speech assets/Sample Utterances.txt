@@ -1,0 +1,101 @@
+OnOff turn {Turn} lights
+OnOff turn the lights {Turn}
+OnOff turn the blubs {Turn}
+OnOff turn {Turn} bulbs
+OnOff turn {Turn}
+OnOff lights {Turn}
+OnOff light {Turn}
+OnOff bulbs {Turn}
+OnOff turn {Turn} lights at {Time} on {Day}
+OnOff turn the lights {Turn} at {Time} on {Day} 
+OnOff turn the blubs {Turn} at {Time} on {Day}
+OnOff turn {Turn} bulbs at {Time} on {Day}
+OnOff turn {Turn} at {Time} on {Day}
+OnOff lights {Turn} at {Time} on {Day}
+OnOff light {Turn} at {Time} on {Day}
+OnOff lights {Turn} {Day} at {Time}
+OnOff light {Turn} at {Time}
+OnOff lights {Turn} at {Time}
+OnOff turn {Turn} lights on {Day}
+OnOff turn {Turn} lights at {Time}
+OnOff turn {Turn} light on {Day}
+OnOff turn {Turn} light at {Time}
+OnOff light {Turn} at {Time} {Day}
+OnOff bulbs {Turn} at {Time} on {Day}
+
+Brightness {IncDec} brightness
+Brightness {IncDec} the brightness
+Brightness brightness {IncDec}
+
+Mood set mood {Color} filaments
+Mood set {Color} filament
+Mood set {Color}
+Mood set mood {Color}
+Mood enable mood {Color} filaments
+Mood enable {Color} filament
+Mood enable {Color}
+Mood enable mood {Color}
+Mood change mood {Color} filaments
+Mood change {Color} filament
+Mood change {Color}
+Mood change mood {Color}
+Mood set mood {Color} filaments at {Time} on {Day}
+Mood set {Color} filament at {Time} on {Day}
+Mood set {Color} at {Time} on {Day}
+Mood set mood {Color} at {Time} on {Day}
+Mood enable mood {Color} filaments at {Time} on {Day}
+Mood enable {Color} filament at {Time} on {Day}
+Mood enable {Color} at {Time} on {Day}
+Mood enable mood {Color} at {Time} on {Day}
+Mood change mood {Color} filaments at {Time} on {Day}
+Mood change {Color} filament at {Time} on {Day}
+Mood change {Color} at {Time} on {Day}
+Mood change mood {Color} at {Time} on {Day}
+Mood set mood {Color} filaments at {Time}
+Mood set {Color} filament at {Time}
+Mood set {Color} at {Time}
+Mood set mood {Color} at {Time}
+Mood enable mood {Color} filaments at {Time}
+Mood enable {Color} filament at {Time}
+Mood enable {Color} at {Time}
+Mood enable mood {Color} at {Time}
+Mood change mood {Color} filaments at {Time}
+Mood change {Color} filament at {Time}
+Mood change {Color} at {Time}
+Mood change mood {Color} at {Time}
+Mood set mood {Color} filaments on {Day}
+Mood set {Color} filament on {Day}
+Mood set {Color} on {Day}
+Mood set mood {Color} on {Day}
+Mood enable mood {Color} filaments on {Day}
+Mood enable {Color} filament on {Day}
+Mood enable {Color} on {Day}
+Mood enable mood {Color} on {Day}
+Mood change mood {Color} filaments on {Day}
+Mood change {Color} filament on {Day}
+Mood change {Color} on {Day}
+Mood change mood {Color} on {Day}
+Mood set mood {Color} filaments at {Time} {Day}
+Mood set {Color} filament at {Time} {Day}
+Mood set {Color} at {Time} {Day}
+Mood set mood {Color} at {Time} {Day}
+Mood enable mood {Color} filaments at {Time} {Day}
+Mood enable {Color} filament at {Time} {Day}
+Mood enable {Color} at {Time} {Day}
+Mood enable mood {Color} at {Time} {Day}
+Mood change mood {Color} filaments at {Time} {Day}
+Mood change {Color} filament at {Time} {Day}
+Mood change {Color} at {Time} {Day}
+Mood change mood {Color} at {Time} {Day}
+
+Temperature warmth to {Warmth}
+Temperature temperature to {Warmth}
+Temperature atmosphere to {Warmth}
+Temperature warmth {Warmth}
+Temperature temperature {Warmth}
+Temperature atmosphere {Warmth}
+Temperature {Warmth} white
+
+SensibleLight sense and light
+
+Introduce give us your introduction

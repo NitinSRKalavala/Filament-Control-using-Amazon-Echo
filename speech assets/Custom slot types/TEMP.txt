@@ -1,0 +1,6 @@
+warm
+neutral
+normal
+cool
+daylight
+hot

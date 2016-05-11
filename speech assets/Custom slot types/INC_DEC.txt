@@ -1,0 +1,7 @@
+increase
+decrease 
+reduce
+minimum
+maximum
+min
+max

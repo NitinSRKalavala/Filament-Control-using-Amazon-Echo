@@ -1,0 +1,72 @@
+{
+  "intents": [
+	{
+      "intent": "OnOff",
+	  "slots": [
+        {
+          "name": "Turn",
+          "type": "TOGGLE"
+        },
+        {
+          "name": "Time",
+          "type": "AMAZON.TIME"
+        },
+        {
+          "name": "Day",
+          "type": "AMAZON.DATE"
+        }
+      ]     
+    },	
+    {
+      "intent": "Brightness",
+	  "slots": [
+        {
+          "name": "IncDec",
+          "type": "INC_DEC"
+        }
+      ]     
+    },
+    {
+      "intent": "Mood",
+	  "slots": [
+        {
+          "name": "Color",
+          "type": "MOOD_COLOR"
+        },
+        {
+          "name": "Time",
+          "type": "AMAZON.TIME"
+        },
+        {
+          "name": "Day",
+          "type": "AMAZON.DATE"
+        }
+      ]     
+    },
+    {
+      "intent": "Temperature",
+	  "slots": [
+        {
+          "name": "Warmth",
+          "type": "TEMP"
+        }
+      ]     
+    },
+    {
+      "intent": "Introduce"
+    },
+	
+    {
+      "intent": "SensibleLight"
+    },
+	{
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
