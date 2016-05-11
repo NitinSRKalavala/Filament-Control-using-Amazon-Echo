@@ -3,7 +3,8 @@ This project is designed to control Wig Wag Filaments using Amazon Echo
 
 # Setup
 To run this skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
-AWS Lambda Setup
+
+# AWS Lambda Setup
 1.	Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
 2.	Click on the Create a Lambda Function or Get Started Now button.
 3.	Skip the blueprint
@@ -33,11 +34,12 @@ AWS Lambda Setup
 
 #Example user interactions:
 #One-shot model:
-User:  "Alexa, ask wig wag to turn on the lights at 11:30 AM on Friday"
-Alexa: "Turning the lights on ..."
+1. User:  "Alexa, ask wig wag to turn on the lights at 11:30 AM on Friday."
+2. Alexa: "Turning the lights on ..."
+
 #Dialog model:
-User:  "Alexa, open Wig Wag"
-Alexa: "Welcome to Wig Wag."
-User:  "Set mood to red filament at 6:00 PM today"
-Alexa: "Changing the mood..."
+1. User:  "Alexa, open Wig Wag."
+2. Alexa: "Welcome to Wig Wag."
+3. User:  "Set mood to red filament at 6:00 PM today."
+4. Alexa: "Changing the mood..."
 
