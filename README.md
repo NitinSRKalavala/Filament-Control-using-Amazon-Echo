@@ -22,7 +22,7 @@ To run this skill you need to do two things. The first is to deploy the example 
 
 # Alexa Skill Setup
 1.	Go to the Alexa Console and click Add a New Skill.
-2.	Set "Wig Wag" for the skill name and "wig wag" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, Ask to turn on the lights."
+2.	Set "Wig Wag" for the skill name and "wig wag" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, Ask wig wag to turn on the lights."
 3.	Select the Lambda ARN for the skill Endpoint and paste the ARN copied from above. Click Next.
 4.	Copy the custom slot types from the customSlotTypes folder. Each file in the folder represents a new custom slot type. The name of the file is the name of the custom slot type, and the values in the file are the values for the custom slot.
 5.	Copy the Intent Schema from the included IntentSchema.json.
